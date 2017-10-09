@@ -10,22 +10,17 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>typedef NS_ENUM(NSInteger, &lt;#name#&gt;){
-    /**
-     *  
-     */
+    
+    /** */
    &lt;#name#&gt;  = 0,
-    /**
-     *
-     */
+    
+    /** */
     &lt;#name#&gt; = 1,
-    /**
-     *
-     */
+    
+    /** */
     &lt;#name#&gt; = 2,
     
-    /**
-     *
-     */
+    /** */
     &lt;#name#&gt; = 3
 };</string>
 	<key>IDECodeSnippetIdentifier</key>
