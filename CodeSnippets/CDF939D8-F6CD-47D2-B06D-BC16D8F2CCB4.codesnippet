@@ -3,24 +3,31 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@protoncol</string>
+	<string>lo protocol</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@class &lt;#name#&gt; ;
+
 @protocol &lt;#name#&gt; &lt;NSObject&gt;
-@optional
+
+@required // 必须
+
+@optional // 可选
 
 
-@end</string>
+@end
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CDF939D8-F6CD-47D2-B06D-BC16D8F2CCB4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>代理接口</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>protocol</string>
 	<key>IDECodeSnippetUserSnippet</key>

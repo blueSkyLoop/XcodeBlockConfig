@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@debug</string>
+	<string>debug</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#ifdef DEBUG_MODE
-    
+	<string>#ifdef DEBUG
+
+#else  // Release
+
 #endif</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6561B1E9-2C8A-4D34-ACDF-C0EE3BF9ADE9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>debug_mode</string>
+	<string>debug</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,24 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>locopy</string>
+	<string>loTargetsDev</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- *  &lt;#summary#&gt;
- */
-@property (copy,nonatomic) &lt;#class#&gt; *&lt;#pro#&gt;;</string>
+	<string>#if TARGETS_Counselor || TARGETS_Counselor_DevTest
+        
+#endif</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6F540025-7E0E-4A5D-B63A-1BAD5B3A5E6D</string>
+	<string>7A536A1E-23B3-4D48-A702-BCFF504455CC</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>copy属性</string>
+	<string>自定义宏判断，target</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>copy</string>
+	<string>TargetsDev</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

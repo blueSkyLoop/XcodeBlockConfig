@@ -3,24 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>locopy</string>
+	<string>TryCatch</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- *  &lt;#summary#&gt;
- */
-@property (copy,nonatomic) &lt;#class#&gt; *&lt;#pro#&gt;;</string>
+	<string>    @try {
+  
+    } @catch (NSException *exception) {
+
+    } @finally {
+        
+    }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6F540025-7E0E-4A5D-B63A-1BAD5B3A5E6D</string>
+	<string>014E8F69-4570-4C5B-9E6E-7F4C21051965</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>copy属性</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>copy</string>
+	<string>TryCatch</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

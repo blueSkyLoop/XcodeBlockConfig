@@ -3,24 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>locopy</string>
+	<string>markIM TIP</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- *  &lt;#summary#&gt;
- */
-@property (copy,nonatomic) &lt;#class#&gt; *&lt;#pro#&gt;;</string>
+	<string>#pragma mark - 自定义消息配置</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6F540025-7E0E-4A5D-B63A-1BAD5B3A5E6D</string>
+	<string>0819B558-F00B-4E92-BA4E-E044FF90DE23</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>copy属性</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>copy</string>
+	<string>mark - IM TIP</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

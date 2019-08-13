@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@meiju</string>
+	<string>lo meiju</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -11,18 +11,19 @@
 	<key>IDECodeSnippetContents</key>
 	<string>typedef NS_ENUM(NSInteger, &lt;#name#&gt;){
     
-    /** */
-   &lt;#name#&gt;  = 0,
+    /** &lt;#style#&gt;*/
+   &lt;#name#&gt;  ,
     
-    /** */
-    &lt;#name#&gt; = 1,
+    /** &lt;#style#&gt;*/
+    &lt;#name#&gt;    ,
     
-    /** */
-    &lt;#name#&gt; = 2,
+    /** &lt;#style#&gt;*/
+    &lt;#name#&gt;    ,
     
-    /** */
-    &lt;#name#&gt; = 3
-};</string>
+    /** &lt;#style#&gt;*/
+    &lt;#name#&gt;
+};
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F837949C-BCAA-4234-9443-6FEC0E760D1D</string>
 	<key>IDECodeSnippetLanguage</key>

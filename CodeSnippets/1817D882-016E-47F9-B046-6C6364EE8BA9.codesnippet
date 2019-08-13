@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@strong</string>
+	<string>loStrong</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>/** &lt;#summary#&gt; */
-@property (strong,nonatomic) &lt;#class#&gt; *&lt;#pro#&gt;;</string>
+@property (nonatomic, strong) &lt;#class#&gt; *&lt;#pro#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1817D882-016E-47F9-B046-6C6364EE8BA9</string>
 	<key>IDECodeSnippetLanguage</key>

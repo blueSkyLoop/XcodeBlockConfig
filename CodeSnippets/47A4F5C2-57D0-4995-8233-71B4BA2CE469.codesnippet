@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@summary</string>
+	<string>summary</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/** &lt;#summary#&gt;*/</string>
+	<string>/** &lt;#summary#&gt; */</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>47A4F5C2-57D0-4995-8233-71B4BA2CE469</string>
 	<key>IDECodeSnippetLanguage</key>

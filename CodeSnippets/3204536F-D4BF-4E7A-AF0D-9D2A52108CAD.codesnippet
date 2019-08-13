@@ -3,24 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>locopy</string>
+	<string>lolazymark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- *  &lt;#summary#&gt;
- */
-@property (copy,nonatomic) &lt;#class#&gt; *&lt;#pro#&gt;;</string>
+	<string>#pragma mark - Lazy</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6F540025-7E0E-4A5D-B63A-1BAD5B3A5E6D</string>
+	<string>3204536F-D4BF-4E7A-AF0D-9D2A52108CAD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>copy属性</string>
+	<string>lazy mark</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>copy</string>
+	<string>lazy</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

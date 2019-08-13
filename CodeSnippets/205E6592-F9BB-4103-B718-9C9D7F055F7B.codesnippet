@@ -3,19 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@delegate</string>
+	<string>lo delegate</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic,weak) id&lt;&lt;#protocol#&gt;&gt; delegate;</string>
+	<string>    if (self.delegate &amp;&amp; [self.delegate respondsToSelector:@selector(&lt;#methodName#&gt;)]) {
+        self.delegate &lt;#methodName#&gt;
+    }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>205E6592-F9BB-4103-B718-9C9D7F055F7B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>声明代理属性</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>delegate</string>
 	<key>IDECodeSnippetUserSnippet</key>

@@ -3,21 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@block</string>
+	<string>lo if-elif</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic,copy) &lt;#Block#&gt; &lt;#block#&gt;;</string>
+	<string>#if &lt;#macro#&gt;
+    
+#elif &lt;#macro#&gt;
+    
+#else
+    
+#endif</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E7DF2040-3F2D-49AD-A960-3E37847E3257</string>
+	<string>35086471-C6D4-4368-AB07-4476B00D8CD4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>条件判断宏</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>block</string>
+	<string>if macro</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

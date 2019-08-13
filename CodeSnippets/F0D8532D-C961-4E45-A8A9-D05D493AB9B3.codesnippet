@@ -3,14 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@mark layout</string>
+	<string>mark layout</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Layout   // 布局
-</string>
+	<string>#pragma mark - Layout   </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F0D8532D-C961-4E45-A8A9-D05D493AB9B3</string>
 	<key>IDECodeSnippetLanguage</key>
